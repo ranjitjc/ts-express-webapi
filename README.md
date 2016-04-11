@@ -39,7 +39,17 @@ To minimize manual coding we’ll install Express.
 
 ###endpoints
 http://localhost:7000
+
+All Products
 http://localhost:7000/product
-http://localhost:7000/products
+
+
+Products with the name yoga
+http://localhost:7000/product/yoga
+
+
+Product with the caregory call hybrid
+http://localhost:7000/product/category/hybrid
+
 
 
