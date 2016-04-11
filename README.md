@@ -51,5 +51,8 @@ http://localhost:7000/product/yoga
 Product with the caregory call hybrid
 http://localhost:7000/product/category/hybrid
 
+##Implementing Socket.io with RxJs
+npm i socket.oi --save 
+npm i rxjs --save
 
-
+tsd install socket.io --save 
