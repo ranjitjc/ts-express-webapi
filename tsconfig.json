@@ -1,0 +1,14 @@
+{
+    "version":"1.7.5",
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "target": "es5",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "outDir": "build" // 2
+    },
+    "exclude":[
+        "node_modules"
+    ]
+}

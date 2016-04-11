@@ -1,0 +1,39 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "serve-static/serve-static.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "mime/mime.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "node/node.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "express/express.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "errorhandler/errorhandler.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "method-override/method-override.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "237339b0238845b027431280c72dc663ca534132"
+    }
+  }
+}

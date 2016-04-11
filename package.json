@@ -1,0 +1,36 @@
+{
+  "name": "ts-express-webapi",
+  "version": "0.0.1",
+  "description": "Web api development on typescript using express module.",
+  "main": "build/server.js",
+  "scripts": {
+    "start": "npm run build && node ./build/server.js",
+    "build": "tsc",
+    "dev": "npm run build_dev && node ./build/server.js",
+    "build_dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjitjc/ts-express-webapi.git"
+  },
+  "keywords": [
+    "typescript",
+    "express",
+    "webapi",
+    "lodash"
+  ],
+  "author": "Ranjit Jeyachandran",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ranjitjc/ts-express-webapi/issues"
+  },
+  "homepage": "https://github.com/ranjitjc/ts-express-webapi#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "lodash": "^4.9.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.12"
+  }
+}
