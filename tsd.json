@@ -12,7 +12,7 @@
       "commit": "237339b0238845b027431280c72dc663ca534132"
     },
     "node/node.d.ts": {
-      "commit": "237339b0238845b027431280c72dc663ca534132"
+      "commit": "0e139d5d4681b71d53a30408efcc64b79eed6354"
     },
     "express-serve-static-core/express-serve-static-core.d.ts": {
       "commit": "237339b0238845b027431280c72dc663ca534132"
@@ -37,6 +37,9 @@
     },
     "socket.io/socket.io.d.ts": {
       "commit": "237339b0238845b027431280c72dc663ca534132"
+    },
+    "ws/ws.d.ts": {
+      "commit": "0e139d5d4681b71d53a30408efcc64b79eed6354"
     }
   }
 }
